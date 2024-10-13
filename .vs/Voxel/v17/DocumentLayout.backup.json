@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tiago\\Voxel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{24147965-48E0-17B4-6E29-46F02954FD57}|Assembly-CSharp.csproj|c:\\users\\tiago\\voxel\\assets\\scripts\\voxelbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24147965-48E0-17B4-6E29-46F02954FD57}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\voxelbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24147965-48E0-17B4-6E29-46F02954FD57}|Assembly-CSharp.csproj|c:\\users\\tiago\\voxel\\assets\\scripts\\voxel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24147965-48E0-17B4-6E29-46F02954FD57}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\voxel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VoxelBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\tiago\\Voxel\\Assets\\Scripts\\VoxelBuilder.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\VoxelBuilder.cs",
+              "ToolTip": "C:\\Users\\tiago\\Voxel\\Assets\\Scripts\\VoxelBuilder.cs",
+              "RelativeToolTip": "Assets\\Scripts\\VoxelBuilder.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwCoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T16:40:04.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Voxel.cs",
+              "DocumentMoniker": "C:\\Users\\tiago\\Voxel\\Assets\\Scripts\\Voxel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Voxel.cs",
+              "ToolTip": "C:\\Users\\tiago\\Voxel\\Assets\\Scripts\\Voxel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Voxel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T16:32:33.445Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
